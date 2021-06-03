@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+    background-color: pink;
+}
+
+h1
+{
+    text-decoration: underline;
+    font-family: 'Racing Sans One', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    color: black;
+    text-shadow: white;
+    text-decoration-color:black;
+}
+button
+{
+    color: black;
+    font-weight: bold;
+    font-family: Suez One, cursive;
+}
